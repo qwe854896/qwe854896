@@ -6,10 +6,11 @@ If you're interested in me, you can find more information at the following pages
 
 - [LinkedIn](https://www.linkedin.com/in/jun-hong-cheng/)
 
+The following are some topics related to me:
+
 - 🔭 I’m currently working on many homework XD
 - 🌱 I’m currently learning React, Design Patterns, FP
 - 👯 I’m looking to collaborate on making a tiny game
-- 🤔 I’m looking for help with finding an intern
 - 💬 Ask me about playing games
 - 📫 How to reach me: It's a secret (X)
 - ⚡ Fun fact: Hahaha
