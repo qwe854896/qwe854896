@@ -1,11 +1,18 @@
-### Hi there 👋
+### Morning 
 
 Woohoo! I am Jun-Hong Cheng, and I'm majoring in Computer Science at National Yang Ming Chiao Tung University, Taiwan, enjoying my junior life!
 
 If you're interested in me, you can find more information at the following pages:
 
 - [LinkedIn](https://www.linkedin.com/in/jun-hong-cheng/)
-- [Codeforces](https://codeforces.com/profile/BombAOne)
+
+- 🔭 I’m currently working on many homework XD
+- 🌱 I’m currently learning React, Design Patterns, FP
+- 👯 I’m looking to collaborate on making a tiny game
+- 🤔 I’m looking for help with finding an intern
+- 💬 Ask me about playing games
+- 📫 How to reach me: It's a secret (X)
+- ⚡ Fun fact: Hahaha
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwe854896&theme=github_dark)
